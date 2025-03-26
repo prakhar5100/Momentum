@@ -5,7 +5,7 @@ Momentum is a task management app built with **TypeScript, React, and Redux**, u
 ## Features
 
 - **Task Management:** Create, update, delete, and view tasks.
-- **Dashboard Overview:** Displays total **pending, completed, in-progress, and high-priority tasks**.
+- **Dashboard Overview:** Displays total **pending, completed, in-progress, and high-priority tasks as well a calendar showing tasks on due date**.
 - **Task Categorization:**
   - Expiring Deadlines
   - High Priority
