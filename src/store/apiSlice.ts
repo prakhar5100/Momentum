@@ -2,6 +2,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 
 const API_KEY = import.meta.env.VITE_API_KEY
 
+console.log(API_KEY)
 export const postData = createAsyncThunk(
     "api/aihelp", 
     async (query : string, { rejectWithValue}) => {
