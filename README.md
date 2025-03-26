@@ -29,7 +29,7 @@ Momentum is a task management app built with **TypeScript, React, and Redux**, u
 
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/prakhar5100/Momentum.git
    ```
 2. Navigate to the project directory:
    ```sh
