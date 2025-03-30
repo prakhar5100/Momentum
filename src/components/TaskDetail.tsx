@@ -18,7 +18,7 @@ const TaskDetail = ({id} : {id : string}) => {
 
     const dispatch = useDispatch()
     const navigate = useNavigate()
-    dispatch(getTaskbyId(id))
+    dispatch(getTaskbyId(id))   
     const task = useSelector((state) => state.task.selectedTask)
 
     if (!task) {
