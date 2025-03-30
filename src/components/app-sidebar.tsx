@@ -16,6 +16,7 @@ import {
 } from "@/components/ui/sidebar"
 import UserProfile from "./UserProfile"
 import Logout from "./Logout"
+import { Link } from "react-router-dom"
 
 // This is sample data.
 const data = {
@@ -56,7 +57,9 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
           <SidebarGroup key={item.title}>
               <SidebarMenu>
                     <SidebarMenuButton asChild>
-                      <a href={item.url}>{item.title}</a>
+                      <Link to={item.url}>
+                      {item.title}
+                      </Link>
                     </SidebarMenuButton>
               </SidebarMenu>
           </SidebarGroup>
