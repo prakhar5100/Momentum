@@ -69,6 +69,5 @@ Enjoy using **Momentum** to boost your productivity! 🚀
 
 
 ![image](https://github.com/user-attachments/assets/72c590cc-3bc1-4586-b562-764731f031e9)
-![image](https://github.com/user-attachments/assets/02388237-fd1a-45e8-b367-0827be85ed5b)
 ![image](https://github.com/user-attachments/assets/579f63d1-d02d-4c05-ba19-416dd51a4236)
 
