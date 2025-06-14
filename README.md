@@ -1,6 +1,6 @@
 # Momentum
 
-Momentum is a task management app built with **TypeScript, React, and Redux**, utilizing the **Groq API** for AI-powered assistance. It helps users manage their tasks efficiently with features like task categorization, a Pomodoro timer, and AI-powered task suggestions.
+Momentum is a task management app built with **TypeScript, React, and Redux**, utilizing the **Groq API** for AI-powered assistance. It helps users manage their tasks efficiently with features like task categorization, a Pomodoro timer, and AI-powered task suggestions as well.
 
 ## Features
 
